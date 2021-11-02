@@ -1,4 +1,4 @@
 # hello-world
-CS-HU250: Module 4
+CS-HU398: Blog Link.
 
-I am pursuing computer science degree at BSU.
+This is a placeholder for my blog post in CS-HU398.
