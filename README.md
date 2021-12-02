@@ -30,14 +30,24 @@ As time goes by and/or during normal operation, many more work items arrive and 
 
 ![image](https://user-images.githubusercontent.com/54860081/144362980-ca22db95-57dc-4052-856b-00937538fb1d.png)
 
+Additionally, work items may be expired over time and should be removed from our workspace. This procedure can take a long time and be difficult to track among teams, especically if the asset is deployed in many places. However, it would be useful if there is an option to DELETE multiple instances of an existing work item in a given workspace so that we can make room for the addition of new arrivals (i.e. see above). This procedure can be accomplished by spotting instances of the work item to be removed, manually marking which instance(s) for removal, and submitting an action to update the database and refresh the screen. This task is presented as in the following snapshots:
 
+![image](https://user-images.githubusercontent.com/54860081/144363463-4ee40a06-b630-4cdb-ba18-a389b852877c.png)
 
+![image](https://user-images.githubusercontent.com/54860081/144364015-5d938c10-c81c-4b3c-9407-4d03fefc7490.png)
 
+![image](https://user-images.githubusercontent.com/54860081/144364215-de069648-a585-4bb3-84f5-bb865279607e.png)
 
+## Conclusion
 
+With a combination of HIGHLIGHT, ADD, and DELETE features in a reasonable user interface, we should be able to manage our assets within our organization with ease. This interface would not only save us time and effort in the back end but also help us communicate better with our clients in the front end [3].
 
+## References
 
+1. https://www.ringcentral.co.uk/gb/en/blog/what-is-the-dynamic-workplace-and-why-should-your-company-embrace-it/
 
+2. https://justagirlandherblog.com/garage-storage-ideas/
 
+3. https://www.aquafinance.com/resource-center/news-articles/using-technology-to-communicate-with-clients/
 
 
