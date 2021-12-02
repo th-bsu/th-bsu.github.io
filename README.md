@@ -50,9 +50,15 @@ Additionally, work items may be expired over time and should be removed from our
 
 ![image](https://user-images.githubusercontent.com/54860081/144363463-4ee40a06-b630-4cdb-ba18-a389b852877c.png)
 
+Figure 9: A snapshot of a control panel where the DELETE mode is (exclusively) active and where the ID of a work item is being inputted.
+
 ![image](https://user-images.githubusercontent.com/54860081/144364015-5d938c10-c81c-4b3c-9407-4d03fefc7490.png)
 
+Figure 10: A virtual representation of a physical workspace, where instances of a user-specified work item are being marked for delete.
+
 ![image](https://user-images.githubusercontent.com/54860081/144364215-de069648-a585-4bb3-84f5-bb865279607e.png)
+
+Figure 11: A virtual representation of a physical workspace after several manually-selected instances of a given work item have been removed.
 
 ## Conclusion
 
