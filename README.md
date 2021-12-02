@@ -10,10 +10,15 @@ There are a lot of workspaces within each organization [2]. It would become a da
 
 ![image](https://user-images.githubusercontent.com/54860081/144360155-86226b93-a709-41d7-b464-da0d38a660a8.png)
 
-From there, the work items can be organized by our associates and displayed on a smart device, with rows and columns. The information can be presented in either back-end or front-end.
+From there, the work items can be organized by our associates and displayed on a smart device, with rows and columns. The information can be presented in either back-end or front-end, as in the following snapshot:
 
 ![image](https://user-images.githubusercontent.com/54860081/144360963-62bb76f8-7f9e-4644-8b3b-b8502a2a9a90.png)
 
+We can then identify where a particular asset is, even if there are multiple locations for it. There should be a HIGHLIGHT mode where our assets can be spotted with ease. This feature would help us replenish and/or retrieve any given work item quickly, or at least with minimal downtime. This task can be accomplished as described with the following snapshots, where all instances of a user-specified asset are highlighted (i.e. orange on even rows, blue on odd rows):
+
+![image](https://user-images.githubusercontent.com/54860081/144361606-072aa763-0de3-4789-b05f-76f717b9acdb.png)
+
+![image](https://user-images.githubusercontent.com/54860081/144361659-85df0122-90b3-4eba-a72e-6abf00513564.png)
 
 
 
