@@ -1,4 +1,4 @@
-# CS398: Workplace Organization
+# Internet of Things and Workplace Organization
 
 ## Background
 
@@ -8,11 +8,12 @@ Having a dynamic and highly re-configurable workplace is one of the critical key
 
 There are a lot of workspaces within each organization [2]. It would become a daunting task to sort and retrieve our assets quickly. However, it would be useful if there is a simple interface that would take us to a dedicated workspace where our assets should be located. Let's start out with the following login screen:
 
-<p align="center">
-  
 ![image](https://user-images.githubusercontent.com/54860081/144360155-86226b93-a709-41d7-b464-da0d38a660a8.png)
 
-</p>
+From there, the work items can be organized by our associates and displayed on a smart device, with rows and columns. The information can be presented in either back-end or front-end.
+
+![image](https://user-images.githubusercontent.com/54860081/144360963-62bb76f8-7f9e-4644-8b3b-b8502a2a9a90.png)
+
 
 
 
