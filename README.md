@@ -20,5 +20,20 @@ We can then identify where a particular asset is, even if there are multiple loc
 
 ![image](https://user-images.githubusercontent.com/54860081/144361659-85df0122-90b3-4eba-a72e-6abf00513564.png)
 
+As time goes by and/or during normal operation, many more work items arrive and should be added to our database. It would become a storage management problem if we can NOT load these additional items into existing workspaces (i.e. we would run of space in our organization). However, it would be useful if there is an option to ADD any new work item into a row of an existing workspace, either to the left or the right of an anchor point (i.e. an existing asset). The anchor could be selected as in the following snapshot:
+
+![image](https://user-images.githubusercontent.com/54860081/144362301-e24f96e7-7950-4053-801a-9f1831f1efb5.png)
+
+![image](https://user-images.githubusercontent.com/54860081/144362374-2185505b-26c2-448c-8e36-800affec4b6c.png)
+
+
+
+
+
+
+
+
+
+
 
 
